@@ -1,9 +1,9 @@
 <!-- HEADER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gonçalo%20Leite&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gonçalo%20Leite&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=55&descAlign=50"/>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Building+intelligent+solutions+%F0%9F%9A%80;Turning+data+into+decisions+%F0%9F%93%8A;Based+%40+IODATA+Technology+%F0%9F%87%B5%F0%9F%87%B9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+%F0%9F%92%BB;Building+intelligent+solutions+%F0%9F%9A%80;Turning+data+into+decisions+%F0%9F%93%8A;Based+%40+IODATA+Technology+%F0%9F%87%B5%F0%9F%87%B9" alt="Typing SVG" />
 </p>
 
 <!-- BADGES -->
@@ -27,7 +27,7 @@
 ```python
 class GoncaloLeite:
     def __init__(self):
-        self.role       = "AI Engineer @ IODATA Technology"
+        self.role       = "Software Engineer @ IODATA Technology"
         self.focus      = ["Machine Learning", "LLMs", "Data Science"]
         self.languages  = ["Python", "C/C++", "Bash", "SQL"]
         self.cloud      = ["AWS", "Azure"]
@@ -63,11 +63,7 @@ class GoncaloLeite:
 
 ## 🐍 Contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gleite05/gleite05/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gleite05/gleite05/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gleite05/gleite05/output/github-snake.svg"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gleite05&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
 
 ---
 
